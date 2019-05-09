@@ -1,6 +1,6 @@
 // javascript countdown timer
-
 var show = document.getElementById("show");
+
 var cDate, eDate, second, minute, hour, day, ti;
 function start() {
   var iDate = event.target.valueAsDate;
